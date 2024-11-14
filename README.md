@@ -1,2 +1,2 @@
-# data_analytics_templace
+# data_analytics_template
 Use this template when you are starting a new data analysis project. 
